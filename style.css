@@ -1,0 +1,30 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note
+{
+    font-size: 15px;
+    color:black;
+}
+
+body
+{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid rgb(2, 1, 1);
+    border-radius: 20px;
+    background-color: black;
+    width: 500px;
+    height: 300px;
+}
+
+.boat{
+    background-color: fuchsia;
+    border-radius: 20px;
+}
